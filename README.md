@@ -4,19 +4,19 @@ The current Repository demonstrates how to detect Snoring using Ballistocardiogr
 ## Workflow
 
 ### 1. Exploratory Data Analysis:**
-    - Data analysis for Trends and Patterns from a Descriptive perspective.
+        - Data analysis for Trends and Patterns from a Descriptive perspective.
 ### 2. Statistical Analysis:
-    - 5 Point Summary: Stating the Mean, Median, Min, Mix and Standard Deviation of the Sample.
-    - Feature Engineering: Created several features for future analysis based on stated Assumptions.
-    - Descriptive Analysis
-        - I study the Data Visually, in order to generate Hypothesis.
-    - Hypothesis Testing:
-        - Based on the Hypothesis generated, I perform several statistical tests to reject/do not reject the Hypothesis.
+        - 5 Point Summary: Stating the Mean, Median, Min, Mix and Standard Deviation of the Sample.
+        - Feature Engineering: Created several features for future analysis based on stated Assumptions.
+        - Descriptive Analysis
+            - I study the Data Visually, in order to generate Hypothesis.
+        - Hypothesis Testing:
+            - Based on the Hypothesis generated, I perform several statistical tests to reject/do not reject the Hypothesis.
 ### 3. Snore Detection:
-    - Spindle Analysis:
-        - I perform Spindle Analysis from a 'Signal Processing' perspecive.
-    - Loss Based Approach:
-        - Snore detection model is built using the Error Loss for each Time-Stamp.
+        - Spindle Analysis:
+            - I perform Spindle Analysis from a 'Signal Processing' perspecive.
+        - Loss Based Approach:
+            - Snore detection model is built using the Error Loss for each Time-Stamp.
         
      
 
