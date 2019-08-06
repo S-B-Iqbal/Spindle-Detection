@@ -1,4 +1,4 @@
-# Snore_Detection
+# Snore Detection
 The current Repository demonstrates how to detect Snoring using Ballistocardiography readings.
 
 ## Workflow
