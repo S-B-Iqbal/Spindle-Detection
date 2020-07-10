@@ -26,8 +26,8 @@ The current Repository demonstrates how to detect Snoring using Ballistocardiogr
 
 ## References:
 
-[1](https://www.frontiersin.org/articles/10.3389/fnhum.2015.00181/full)    
-[2](https://www.frontiersin.org/articles/10.3389/fnhum.2015.00353/full#h11)    
-[3](https://www.researchgate.net/publication/275541618_Heart_Rate_Measurement_Using_Video_in_Different_User_States_for_Online_HCI_Applications)    
-[4](https://www.apress.com/gp/book/9781484242452)
+[EEG sleep spindle detection using continuous wavelet transformation](https://www.frontiersin.org/articles/10.3389/fnhum.2015.00181/full)    
+[Automatic sleep spindle detection](https://www.frontiersin.org/articles/10.3389/fnhum.2015.00353/full#h11)    
+[Heart Rate Measurement](https://www.researchgate.net/publication/275541618_Heart_Rate_Measurement_Using_Video_in_Different_User_States_for_Online_HCI_Applications)    
+[Numerical Python Book](https://www.apress.com/gp/book/9781484242452)
 
