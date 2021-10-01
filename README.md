@@ -18,9 +18,9 @@ The current Repository demonstrates how to detect Snoring using Ballistocardiogr
 ### 3. Snore Detection:    
 
    - *Spindle Analysis:*
-        - I perform Spindle Analysis from a 'Signal Processing' perspecive.
+        - Spindle detection is performed from an 'Information' perspective.
    - *Loss Based Approach:*
-        - Snore detection model is built using the Error Loss for each Time-Stamp.
+        - Detection is performed with respect to pre-set threshold.
         
      
 
